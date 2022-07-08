@@ -1,7 +1,7 @@
 # SLACsolution
 一個host優化工具，用於解決SCPSL的SLAC問題。 
 執行「bat」文件，提示需要管理員權限請點「是」。 只需執行一次，無需重複。 
-歡迎自行修改脚本内容~  
+歡迎自行修改脚本内容~
 
 Google Translation: 
 A host optimization tool for solve SLAC problems of SCPSL. 
